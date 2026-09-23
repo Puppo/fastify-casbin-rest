@@ -36,9 +36,6 @@
     "url": "https://github.com/nearform/fastify-casbin-rest/issues"
   },
   "homepage": "https://github.com/nearform/fastify-casbin-rest#readme",
-  "engines": {
-    "node": ">=22"
-  },
   "dependencies": {
     "fastify-plugin": "^6.0.0",
     "http-errors": "^2.0.0"
